@@ -14,5 +14,7 @@ body{
    h1{
     font-size: larger;
     color: black;
+    text-shadow: 2cm;
+    text-decoration: dotted;
    }
 }

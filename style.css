@@ -17,4 +17,11 @@ body{
     text-shadow: 2cm;
     text-decoration: dotted;
    }
+   .kc{
+    width: 200%;
+   }
+   .muda {
+    text-align: center;
+    width: 90% ;
+   }
 }

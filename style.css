@@ -2,22 +2,22 @@
 body{
   padding: 2px;
   text-align:center;
-    background-color:crimson;
+    background-color:#CF2F50;
     border-radius:initial;
     border-style:solid;
     display: flex;
     margin: 2px;
     p{
-        color: rgb(23, 194, 23);
+        color: #6FDB75;
     }
   .Doppio {
     font-size: medium;
-    color: white;
+    color: #E6E1E7;
     font-style: oblique;
    } 
    h1{
     font-size: larger;
-    color: black;
+    color: #F6B5D5;
     text-shadow: 2cm;
     text-decoration: dotted;
    }
